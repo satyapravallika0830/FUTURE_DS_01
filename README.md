@@ -1,6 +1,6 @@
 # FUTURE_DS_01 - Data Science Internship
 
-**Intern Name:** Satya Pravallika  
+**Intern Name:** Allada Triveni Satya Pravallika  
 **GitHub:** satyapravallika0830  
 **Batch:** May 2026  
 **Start Date:** 30-May-2026
